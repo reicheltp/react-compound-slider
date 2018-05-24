@@ -1,0 +1,32 @@
+{
+  "name": "react-compound-slider",
+  "author": "Steven Hall",
+  "version": "0.11.0",
+  "description": "Futuristic react slider component",
+  "main": "./index.js",
+  "module": "./index.es.js",
+  "jsnext:main": "./index.es.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "range-slider",
+    "input-range",
+    "range",
+    "slider",
+    "form",
+    "input"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sghall/react-compound-slider.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
+  },
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "prop-types": "^15.6.1",
+    "warning": "^3.0.0"
+  }
+}
